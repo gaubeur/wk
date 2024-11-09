@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/17 14:45:45.599.pas,C:\projetos\wk\wk1\Unit1.pas=C:\Users\gaube\OneDrive\Documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 14:45:45.599.dfm,C:\projetos\wk\wk1\Unit1.dfm=C:\Users\gaube\OneDrive\Documentos\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 14:46:03.057.dproj,C:\projetos\wk\wk1\WK.dproj=C:\Users\gaube\OneDrive\Documentos\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/17 15:12:46.391.pas,C:\projetos\wk\wk1\Model\Dao\Model.DAO.Clientes.pas=</Transaction>
+    <Transaction>2022/08/17 16:37:33.909.pas,C:\projetos\wk\wk1\Unit1.pas=</Transaction>
+    <Transaction>2022/08/17 16:37:33.909.dfm,C:\projetos\wk\wk1\Unit1.dfm=</Transaction>
+    <Transaction>2022/08/17 18:09:48.359.pas,C:\projetos\wk\wk1\Model\Entidade\Model.Entidades.Produto.pas=C:\projetos\wk\wk1\Model\Entidade\Model.Entidades.Clientes.pas</Transaction>
+    <Transaction>2022/08/17 18:20:34.185.pas,C:\projetos\wk\wk1\Model\Entidade\Model.Entidades.Produtos.pas=C:\projetos\wk\wk1\Model\Entidade\Model.Entidades.Produto.pas</Transaction>
+    <Transaction>2022/08/17 18:20:40.754.pas,C:\projetos\wk\wk1\Model\Entidade\Model.Entidades.Produtos.pas=</Transaction>
+    <Transaction>2022/08/17 18:21:23.625.pas,C:\projetos\wk\wk1\Model\Dao\Model.DAO.Produtos.pas=C:\projetos\wk\wk1\Model\Dao\Model.DAO.Clientes.pas</Transaction>
+    <Transaction>2022/08/18 00:45:22.632.pas,C:\projetos\wk\wk1\Model\Dao\Model.DAO.Pedidos.pas=C:\projetos\wk\wk1\Model\Dao\Model.DAO.Produtos.pas</Transaction>
+    <Transaction>2024/11/08 10:19:27.000.600,=C:\projetos\wk\wk1\Model\Conexao\Model.Conexao.Mysql.pas</Transaction>
+    <Transaction>2024/11/08 12:36:32.000.299,C:\projetos\wk\wk1\Model\Conexao\Model.Conexao.Zeos.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="controller"/>
+    <File Path="controller\Controller.Entidades.pas"/>
+    <File Path="controller\Controller.Interfaces.pas"/>
+    <File Path="controller\Controller.Controller.pas"/>
+    <File Path="Model"/>
+    <File Path="Model\Conexao"/>
+    <File Path="Model\Conexao\Model.Conexao.Interfaces.pas"/>
+    <File Path="Model\Conexao\Model.Conexao.Mysql.pas"/>
+    <File Path="Model\Conexao\Model.Conexao.pas"/>
+    <File Path="Model\Dao"/>
+    <File Path="Model\Dao\Model.DAO.Interfaces.pas"/>
+    <File Path="Model\Dao\Model.DAO.Clientes.pas"/>
+    <File Path="Model\Dao\Model.DAO.Pedidos.pas"/>
+    <File Path="Model\Dao\Model.DAO.Produtos.pas"/>
+    <File Path="Model\Entidade"/>
+    <File Path="Model\Entidade\Model.Entidades.Clientes.pas"/>
+    <File Path="Model\Entidade\Model.Entidades.Produtos.pas"/>
+    <File Path="Model\Entidade\Model.Entidades.Pedidos.pas"/>
+    <File Path="Model\Entidade\Model.Entidades.PedidosItens.pas"/>
+    <File Path="view"/>
+    <File Path="view\View.Pedido.pas"/>
+    <File Path="view\View.Pedido.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
